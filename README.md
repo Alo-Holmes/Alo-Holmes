@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alo-Holmes
 - 👀 I’m interested in Automation Testing
 - 🌱 I think Cypress.io is the shiznizz
-- 🌱 Playeright is the bomb.com
+- 🌱 Playwright is the bomb.com
 - 🌱 I know how to create a framework using Selenium/SpecFlow and C# with BDD 
 - 📫 Reach me on: holmes.angelo@gmail.com
 
