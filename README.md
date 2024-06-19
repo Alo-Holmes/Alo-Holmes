@@ -1,13 +1,11 @@
 - 👋 Hi, I’m @Alo-Holmes
 - 👀 I'm on a mission!
-  -[x] Functional Tester
-  -[x] Technical Tester
-  -[x] Team Lead
-  -[x} Senior Manager
-  -[x] Specialist Analyst
-  -[x] Engineer
-  -[x] Automation Engineer
-  -[] Architect
+  
+ | Task           | Status       |
+|----------------|--------------|
+| Task 1         | - [x] Done   |
+| Task 2         | - [ ] Not yet|
+
 - 🌱 I think Cypress.io is the shiznizz
 - 🌱 Playwright is the bomb.com
 - 🌱 I've dabbled in Selenium + SpecFlow and C# with BDD
