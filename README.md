@@ -1,5 +1,13 @@
 - 👋 Hi, I’m @Alo-Holmes
-- 👀 I’m interested in Automation Testing
+- 👀 I'm on a mission!
+  -[x] Functional Tester
+  -[x] Technical Tester
+  -[x] Team Lead
+  -[x} Senior Manager
+  -[x] Specialist Analyst
+  -[x] Engineer
+  -[x] Automation Engineer
+  -[] Architect
 - 🌱 I think Cypress.io is the shiznizz
 - 🌱 Playwright is the bomb.com
 - 🌱 I've dabbled in Selenium + SpecFlow and C# with BDD
