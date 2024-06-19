@@ -1,11 +1,5 @@
 - 👋 Hi, I’m @Alo-Holmes
-- 👀 I'm on a mission!
-  
- | Task                 | Status       |
-|-----------------------|--------------|
-| Functional Tester     | - [x] Done   |
-| Technical Tester      | - [x] Not yet|
-
+- 👀 I'm on a mission!  
 - 🌱 I think Cypress.io is the shiznizz
 - 🌱 Playwright is the bomb.com
 - 🌱 I've dabbled in Selenium + SpecFlow and C# with BDD
