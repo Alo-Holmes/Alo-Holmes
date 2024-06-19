@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Alo-Holmes
 - 👀 I'm on a mission!
   
- | Task           | Status       |
-|----------------|--------------|
-| Task 1         | - [x] Done   |
-| Task 2         | - [ ] Not yet|
+ | Task                 | Status       |
+|-----------------------|--------------|
+| Functional Tester     | - [x] Done   |
+| Technical Tester      | - [x] Not yet|
 
 - 🌱 I think Cypress.io is the shiznizz
 - 🌱 Playwright is the bomb.com
