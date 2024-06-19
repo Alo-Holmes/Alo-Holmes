@@ -2,7 +2,8 @@
 - 👀 I’m interested in Automation Testing
 - 🌱 I think Cypress.io is the shiznizz
 - 🌱 Playwright is the bomb.com
-- 🌱 I know how to create a framework using Selenium/SpecFlow and C# with BDD 
+- 🌱 I've dabbled in Selenium + SpecFlow and C# with BDD
+- 🌱 Somewhat skilled in the deadly martial art of API testing
 - 📫 Reach me on: holmes.angelo@gmail.com
 
 <!---
