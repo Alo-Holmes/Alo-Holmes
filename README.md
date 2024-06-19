@@ -3,7 +3,7 @@
 - 🌱 I think Cypress.io is the shiznizz
 - 🌱 Playwright is the bomb.com
 - 🌱 I've dabbled in Selenium + SpecFlow and C# with BDD
-- 🌱 Somewhat skilled in the deadly martial art of API testing
+- 🌱 ~God-Level~ Somewhat skilled in the deadly martial art of API testing
 - 📫 Reach me on: holmes.angelo@gmail.com
 
 <!---
